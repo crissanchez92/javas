@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/gftkudos",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
